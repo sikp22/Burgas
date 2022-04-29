@@ -1,0 +1,16 @@
+C:\Users\СашкаИПетрова\source\repos\calculator\calculator\bin\Debug\net5.0\calculator.exe
+C:\Users\СашкаИПетрова\source\repos\calculator\calculator\bin\Debug\net5.0\calculator.deps.json
+C:\Users\СашкаИПетрова\source\repos\calculator\calculator\bin\Debug\net5.0\calculator.runtimeconfig.json
+C:\Users\СашкаИПетрова\source\repos\calculator\calculator\bin\Debug\net5.0\calculator.runtimeconfig.dev.json
+C:\Users\СашкаИПетрова\source\repos\calculator\calculator\bin\Debug\net5.0\calculator.dll
+C:\Users\СашкаИПетрова\source\repos\calculator\calculator\bin\Debug\net5.0\ref\calculator.dll
+C:\Users\СашкаИПетрова\source\repos\calculator\calculator\bin\Debug\net5.0\calculator.pdb
+C:\Users\СашкаИПетрова\source\repos\calculator\calculator\obj\Debug\net5.0\calculator.csproj.AssemblyReference.cache
+C:\Users\СашкаИПетрова\source\repos\calculator\calculator\obj\Debug\net5.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\СашкаИПетрова\source\repos\calculator\calculator\obj\Debug\net5.0\calculator.AssemblyInfoInputs.cache
+C:\Users\СашкаИПетрова\source\repos\calculator\calculator\obj\Debug\net5.0\calculator.AssemblyInfo.cs
+C:\Users\СашкаИПетрова\source\repos\calculator\calculator\obj\Debug\net5.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\СашкаИПетрова\source\repos\calculator\calculator\obj\Debug\net5.0\calculator.dll
+C:\Users\СашкаИПетрова\source\repos\calculator\calculator\obj\Debug\net5.0\ref\calculator.dll
+C:\Users\СашкаИПетрова\source\repos\calculator\calculator\obj\Debug\net5.0\calculator.pdb
+C:\Users\СашкаИПетрова\source\repos\calculator\calculator\obj\Debug\net5.0\calculator.genruntimeconfig.cache
