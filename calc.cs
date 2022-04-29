@@ -12,31 +12,6 @@ namespace calculator
         public double num2;
         public char oper;
 
-        //public char Oper
-        //{
-        //    get { return oper; }
-        //    set { oper = value; }
-        //}
-
-        //public double Num2
-        //{
-        //    get { return num2; }
-        //    set { num2 = value; }
-        //}
-
-
-        //public double Num1      
-        //{
-        //    get { return num1; }
-        //    set { num1 = value; }
-        //}
-
-        //public calc(double num1, double num2, char oper)
-        //{
-        //    this.Num1 = num1;
-        //    this.Num2 = num2;
-        //    this.oper = Oper;
-        //}
 
 
 
